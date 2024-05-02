@@ -7,7 +7,7 @@
 
 ![An image of the clock](readmeImages/clock.jpeg)
 
-I think these two works give me a lot of inspiration. They both seem to contain an element of rotation, so when I gaze at these two works, they give me a sense of being gradually brought into the picture by attraction Therefore, I think this kind of rotation or distortion is a good element, I want to use it to make a very dynamic work, it can make the audience's mind wander.
+I think these two works give me a lot of inspiration. They both seem to contain an element of rotation, so when I gaze at these two works, they give me a sense of being gradually brought into the picture by attraction.Therefore, I think this kind of rotation or distortion is a good element, I want to use it to make a very dynamic work, it can make the audience's mind wander.
 
 
 ## Part 2: Coding Technique Exploration
