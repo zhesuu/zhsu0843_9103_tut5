@@ -1,43 +1,26 @@
 # zhsu0843_9103_tut5
-My first repository for IDEA9103
 
-This is my first local change to the repo!
 
 # Part 1: Imaging Technique Inspiration
 
-![An image of a galaxy](galaxies-and-planets-chirila-corina.jpeg)
+![An image of a galaxy](galaxies-and-planets-chirila-corina.jpg)
 
 ![An image of the clock](readmeImages/clock.jpeg)
 
-**Bold Text** or __Bold Text__
+I think these two works give me a lot of inspiration. They both seem to contain an element of rotation, so when I gaze at these two works, they give me a sense of being gradually brought into the picture by gravity. So, I think this kind of rotation or distortion is a good element, and I want to use it to make a very dynamic piece.
+
 
 ## Part 2: Coding Technique Exploration
 
+I found a technique in **p5.js** that allows a graph to continuously rotate. I think this technique can assist my idea to make the elements of the picture dynamic, which will enhance the tension of the picture.
 
-**Bold Text** or __Bold Text__
-*Italic Text* or _Italic Text_
-
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-
-1. First Item
-2. Second Item
-3. Third Item
+![An image of the code example](code.PNG)
 
 [coding exmple](https://p5js.org/examples/form-star.html
-Links to an external site.)
+)
 
 
 
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-
-> This is a blockquote.
 
 
 
