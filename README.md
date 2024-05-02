@@ -3,7 +3,7 @@
 
 # Part 1: Imaging Technique Inspiration
 
-![An image of a galaxy](galaxy.jpg)
+![An image of a galaxy](readmeImages/galaxy.jpg)
 
 ![An image of the clock](readmeImages/clock.jpeg)
 
@@ -14,7 +14,7 @@ I think these two works give me a lot of inspiration. They both seem to contain 
 
 I found a technique in **p5.js** that allows a graph to continuously rotate. I think this technique can assist my idea to make the elements of the picture dynamic, which will enhance the tension of the picture.
 
-![An image of the code example](code.png)
+![An image of the code example](readmeImages/code.png)
 
 [coding exmple](https://p5js.org/examples/form-star.html
 )
