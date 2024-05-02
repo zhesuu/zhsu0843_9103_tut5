@@ -3,7 +3,7 @@
 
 # Part 1: Imaging Technique Inspiration
 
-![An image of a galaxy](galaxies-and-planets-chirila-corina.jpg)
+![An image of a galaxy](galaxy.jpg)
 
 ![An image of the clock](readmeImages/clock.jpeg)
 
