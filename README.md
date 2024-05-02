@@ -29,7 +29,7 @@ Links to an external site.)
 
 ![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
-![An image of the Mona Lisa](readmeImages/clock.jpg)
+![An image of the clock](readmeImages/clock.jpg)
 
 ```
 function helloWorld() {
